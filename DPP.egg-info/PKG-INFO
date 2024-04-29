@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: DPP
+Version: 0.0.1
+Author: kartik
+Author-email: kartikpatekar27@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: flask
+Requires-Dist: sklearn
